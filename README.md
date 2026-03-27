@@ -1,4 +1,4 @@
-# Learning Path (tauri-applearning-path)
+# LearnAnything
 
 Desktop app built with **Tauri 2** and a **Solid.js** (Vite) frontend. The Rust backend uses SurrealDB and models via OpenRouter; importing PDFs and other documents requires a local **Python** environment with **Docling**.
 
