@@ -1,0 +1,23 @@
+# Compiled Rust code
+/src-tauri/target/
+
+# Node dependencies
+node_modules/
+dist/
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Sensitive Data
+.env
+config.json
+/src-tauri/src/*.db
+/src-tauri/src/*.sqlite
+/src-tauri/storage/

@@ -1,0 +1,5 @@
+# Example configuration for LearningPath application
+# Model name must match an OpenRouter model identifier
+MODEL_NAME = "xiaomi/mimo-v2-pro"
+# Desired language for model output (Polish, English, etc.)
+OUTPUT_LANGUAGE = "Polish"
